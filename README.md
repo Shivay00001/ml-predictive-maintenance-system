@@ -1,5 +1,7 @@
 # ml-predictive-maintenance-system
 
+Built by [VisionQuantech](https://visionquantech.com) — AI agents, apps & tools for small businesses.
+
 **Real** predictive-maintenance model (rebuilt 2026-09-24 — the previous version
 was a simulated-inference stub and has been deleted). Trains a genuine sklearn
 pipeline (`StandardScaler` + `GradientBoostingClassifier`) on machine-sensor
